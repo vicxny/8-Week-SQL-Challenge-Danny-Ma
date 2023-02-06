@@ -1,3 +1,3 @@
-# -8-Week-SQL-Challenge-Danny-Ma
+# 8 Week SQL Challenge
 
 [Site](https://8weeksqlchallenge.com/)
